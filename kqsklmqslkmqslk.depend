@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\date.cpp
+	"date.h"
+	<iostream>
+	<string>
+
+1680689115 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\date.h
+	<iostream>
+	<string>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\donateur.cpp
+	"donateur.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1680692080 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\donateur.h
+	"projet.h"
+	"financement.h"
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1680691476 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\projet.h
+	<iostream>
+	<string>
+	<vector>
+	<date.h>
+
+1680692080 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\financement.h
+	"projet.h"
+	<string>
+	<bits/stdc++.h>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\financement.cpp
+	"donateur.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\personne.cpp
+	"Personne.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1680690613 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\personne.h
+	<string>
+	<bits/stdc++.h>
+	<ctime>
+	<iostream>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\projet.cpp
+	"Projet.h"
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\stagiare.cpp
+	"stagiare.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1680689115 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\stagiare.h
+	<bits/stdc++.h>
+	<personne.h>
+	<projet.h>
+
+1680690245 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\main.cpp
+	<bits/stdc++.h>
+	"projet.h"
+	"donateur.h"
+	"financement.h"
+	"Stagiare.h"
+

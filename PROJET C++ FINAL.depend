@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1680690245 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\main.cpp
+	<bits/stdc++.h>
+	"projet.h"
+	"donateur.h"
+	"financement.h"
+	"Stagiare.h"
+
+1680691476 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\projet.h
+	<iostream>
+	<string>
+	<vector>
+	<date.h>
+
+1682756935 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\date.h
+
+1680692080 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\donateur.h
+	"projet.h"
+	"financement.h"
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1680692080 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\financement.h
+	"projet.h"
+	<string>
+	<bits/stdc++.h>
+
+1680689115 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\stagiare.h
+	<bits/stdc++.h>
+	<personne.h>
+	<projet.h>
+
+1682756358 c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\include\personne.h
+	<string>
+	<ctime>
+	<iostream>
+	<vector>
+	<projet.h>
+	<date.h>
+
+1682756729 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\date.cpp
+	<iostream>
+	<iomanip>
+	"date.h"
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\donateur.cpp
+	"donateur.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\financement.cpp
+	"donateur.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\personne.cpp
+	"Personne.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\projet.cpp
+	"Projet.h"
+
+1680689115 source:c:\users\azertyy\desktop\tp s2\kqsklmqslkmqslk\src\stagiare.cpp
+	"stagiare.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1682764338 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\main.cpp
+	<bits/stdc++.h>
+	"projet.h"
+	"donateur.h"
+	"financement.h"
+	"Stagiare.h"
+	<date.h>
+	<Template.h>
+
+1682761697 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\projet.h
+	<iostream>
+	<string>
+	<vector>
+	<date.h>
+
+1682756935 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\date.h
+
+1680688480 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\donateur.h
+	"projet.h"
+	"financement.h"
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1682764945 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\financement.h
+	"projet.h"
+	<string>
+	<bits/stdc++.h>
+
+1682759089 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\stagiare.h
+	<bits/stdc++.h>
+	<personne.h>
+	<projet.h>
+	<date.h>
+
+1682756358 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\personne.h
+	<string>
+	<ctime>
+	<iostream>
+	<vector>
+	<projet.h>
+	<date.h>
+
+1682761286 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\src\date.cpp
+	<iostream>
+	<iomanip>
+	"date.h"
+
+1680685515 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\src\donateur.cpp
+	"donateur.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1682764558 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\src\financement.cpp
+	"donateur.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1682761421 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\src\stagiare.cpp
+	"stagiare.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1682758006 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\src\personne.cpp
+	"Personne.h"
+	<iostream>
+
+1682761970 source:c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\src\projet.cpp
+	"Projet.h"
+
+1682763861 c:\users\chahi\onedrive\bureau\kqsklmqslkmqslk\include\template.h
+	<vector>
+	<string>
+	<algorithm>
+	"donateur.h"
+	"projet.h"
+	"financement.h"
+
